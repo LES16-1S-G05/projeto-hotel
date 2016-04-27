@@ -10,7 +10,7 @@ Para iniciar o projeto:
 rode o comando npm install {nome do módulo}*
 
 Materiais para estudo:
-<li><p>Form simples: https://github.com/amandaclarck/form_simples ></p></li> 
+<li><p>Form simples: https://github.com/amandaclarck/form_simples</p></li> 
 <li><p> Comandos básicos do MongDB: https://mongodbwise.wordpress.com/2014/05/22/mongodb-guia-rapido></p></li>
 <li><p> Primeiros passos com Node.js: http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js></p></li>
 
