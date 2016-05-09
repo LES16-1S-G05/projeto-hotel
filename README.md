@@ -1,5 +1,7 @@
-# projeto-hotel
-Projeto acadêmico em grupo com o intuito de aprender sobre a MEAN stack.
+#Caso de Uso do projeto-hotel: Projeto acadêmico em grupo com o intuito de aprender sobre a MEAN stack.
+O propósito é desenvolver apenas um caso de uso que seria: funcionário ------------------> Controle de Quarto
+
+Descrição do Caso de Uso - Controle de Quarto: Esta funcionalidade deverá permittir ao usuário (funcionário) efetuar o controle de um quarto de hotel, as ações que estarão disponíveis são: cadastrar, remover, alterar e consultar quartos.
 
 Para iniciar o projeto:
 1. Posicione-se no diretório e digite npm install
